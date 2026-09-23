@@ -19,14 +19,6 @@ Open the URL printed by Vite, usually:
 
 http://localhost:5173
 
-## Demo login
-
-Student:
-student / student123
-
-Admin:
-admin / admin123
-
 ## Backend
 
 The frontend calls:
